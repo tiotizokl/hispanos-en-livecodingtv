@@ -29,5 +29,5 @@ Repositorio: [danirod/jotagit](http://github.com/danirod/jotagit)
 * [Episodio 2](https://www.livecoding.tv/video/spanish-programando-un-cliente-git-en-java-4/)
 * Episodio 3
  * [Parte 3.1](https://www.livecoding.tv/video/spanish-programando-un-cliente-git-en-java-5/)
- * [Parte 3.2](https://www.livecoding.tv/video/spanish-programando-un-cliente-git-en-java-6/)
+ * [Parte 3.2](https://www.livecoding.tv/video/spanish-programando-un-cliente-git-en-java-6/)
 * [Episodio 4](https://www.livecoding.tv/video/spanish-programando-un-cliente-git-en-java-7/)
